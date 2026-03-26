@@ -1,0 +1,18 @@
+**CTA 1 – Booking Prompt**
+**Heading:** Your Perfect Hair Day Starts Here
+**Text:** Ready for a refresh? Booking your appointment takes just 30 seconds—and your future self will thank you.
+**Button:** Book Now
+
+---
+
+**CTA 2 – Trust Builder**
+**Heading:** Loved by Women Who Value Quality
+**Text:** With years of experience and hundreds of happy clients, our work speaks through every smile, every glow, every confident step out.
+**Button:** See Results
+
+---
+
+**CTA 3 – Location / Urgency**
+**Heading:** Your Banjara Hills Beauty Escape
+**Text:** Right in the heart of Banjara Hills, your go-to salon is closer than you think—weekend slots fill up fast, so plan ahead.
+**Button:** Reserve Slot
