@@ -1,0 +1,14 @@
+You are writing service descriptions for "Glamour Studio", a premium salon 
+in Banjara Hills, Hyderabad.
+
+List 6 services the salon offers. For each service, write:
+- Service name
+- What's included (2-3 bullet points)
+- One sentence explaining why a customer should choose this service 
+  (focus on outcome, not features)
+
+Services should cover: haircuts, hair coloring, facials, bridal packages, 
+manicure/pedicure, and hair spa treatments.
+
+Tone: Professional but friendly. Use "you/your" language.
+Keep each service description under 50 words.
