@@ -1,0 +1,17 @@
+You are an expert website copywriter specializing in local businesses.
+
+Write homepage copy for "Glamour Studio", a premium hair and beauty salon 
+located in Banjara Hills, Hyderabad.
+
+Target audience: Women aged 20-45, professionals and brides-to-be.
+
+Generate:
+1. A headline (max 10 words) with a clear value proposition
+2. A sub-headline (1 sentence) stating who it's for and the key benefit
+3. A short intro paragraph (3-4 sentences) that builds trust and emotion
+
+Tone: Warm, confident, welcoming — like talking to a friend who happens 
+to be a beauty expert.
+
+Do NOT use generic phrases like "welcome to our salon" or "we are the best."
+Focus on how the customer FEELS after visiting.
