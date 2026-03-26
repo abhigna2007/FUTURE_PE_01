@@ -33,3 +33,5 @@ Created structured, high-quality website copy that improves clarity, emotional c
 
 ## 📸 Preview
 ![Preview](assets/preview.png)
+## 🙌 Learning
+This task helped me understand how to structure prompts and use AI tools effectively for real-world business problems.
