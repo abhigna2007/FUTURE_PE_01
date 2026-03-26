@@ -1,0 +1,18 @@
+Write 3 call-to-action sections for "Glamour Studio", a salon in 
+Banjara Hills, Hyderabad.
+
+CTA 1 - Booking prompt: Encourage visitors to book an appointment. 
+Include a sense of ease ("it takes 30 seconds").
+
+CTA 2 - Trust builder: Mention experience, number of happy clients, 
+or Google reviews. Make it feel earned, not boastful.
+
+CTA 3 - Location/urgency CTA: Use the Banjara Hills location as a 
+selling point. Add mild urgency ("limited weekend slots").
+
+For each CTA, write:
+- A short heading (5-8 words)
+- Supporting text (1-2 sentences)
+- Button text (2-4 words)
+
+Tone: Confident, warm, action-oriented.
